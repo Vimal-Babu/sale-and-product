@@ -1,0 +1,10 @@
+# Virtual environment folder
+env/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# VS Code specific files
+.vscode/
+
